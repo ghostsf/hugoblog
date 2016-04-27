@@ -154,7 +154,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
     motion: true,
     duoshuo: {
       userId: 0,
-      author: '博主'
+      author: 'Author'
     }
   };
 </script>
@@ -162,7 +162,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
   <title> discuz-lession | ghostsf </title>
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
 
   
 
@@ -217,7 +217,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
             
               <i class="menu-item-icon fa fa-home fa-fw"></i> <br />
             
-            首页
+            Home
           </a>
         </li>
       
@@ -227,7 +227,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
             
               <i class="menu-item-icon fa fa-archive fa-fw"></i> <br />
             
-            归档
+            Archives
           </a>
         </li>
       
@@ -237,7 +237,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
             
               <i class="menu-item-icon fa fa-tags fa-fw"></i> <br />
             
-            标签
+            Tags
           </a>
         </li>
       
@@ -290,7 +290,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
             <span class="post-meta-item-icon">
               <i class="fa fa-calendar-o"></i>
             </span>
-            <span class="post-meta-item-text">发表于</span>
+            <span class="post-meta-item-text">Posted on</span>
             <time itemprop="dateCreated" datetime="2016-04-27T17:17:14+08:00" content="2016-04-27">
               2016-04-27
             </time>
@@ -384,6 +384,27 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
     <div>
       
         
+<div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center">
+  <div>坚持原创技术分享，您的支持将鼓励我继续创作！</div>
+  <button id="rewardButton", disable="enable", onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}", style="cursor: pointer; border: 0; outline: 0; border-radius: 100%; padding: 0; margin: 0; letter-spacing: normal; text-transform: none; text-indent: 0px; text-shadow: none">
+    <span onmouseover="this.style.color='rgb(236,96,0)';this.style.background='rgb(204,204,204)'" onMouseOut="this.style.color='#fff';this.style.background='rgb(236,96,0)'" style="display: inline-block; width: 70px; height: 70px; border-radius: 100%; line-height: 81px; color: #fff; font: 400 35px/75px 'microsofty'; background: rgb(236,96,0)">赏</span>
+  </button>
+  <div id="QR" style="display: none;">
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="http://7x008w.com1.z0.glb.clouddn.com/%E5%BE%AE%E4%BF%A1.png" alt="ghostsf WeChat Pay" style="width: 200px; max-width: 100%; display: inline-block"/>
+        <p>微信打赏</p>
+      </div>
+    
+    
+      <div id="alipay" style="display: inline-block">
+        <img id="alipay_qr" src="http://7x008w.com1.z0.glb.clouddn.com/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" alt="ghostsf Alipay" style="width: 200px; max-width: 100%; display: inline-block"/>
+        <p>支付宝打赏</p>
+      </div>
+    
+  </div>
+</div>
+
       
     </div>
 
@@ -459,10 +480,10 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
       
         <ul class="sidebar-nav motion-element">
           <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
-            文章目录
+            Table of Contents
           </li>
           <li class="sidebar-nav-overview" data-target="site-overview">
-            站点概览
+            Overview
           </li>
         </ul>
       
@@ -470,7 +491,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
       <section class="site-overview sidebar-panel ">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
-               src="http://7x008w.com1.z0.glb.clouddn.com/l.jpg"
+               src="http://7x008w.com1.z0.glb.clouddn.com/1.jpg"
                alt="ghostsf" />
           <p class="site-author-name" itemprop="name">ghostsf</p>
           <p class="site-description motion-element" itemprop="description">ghostsf's blog</p>
@@ -479,7 +500,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
           <div class="site-state-item site-state-posts">
             <a href="/archives">
               <span class="site-state-item-count">2</span>
-              <span class="site-state-item-name">日志</span>
+              <span class="site-state-item-name">posts</span>
             </a>
           </div>
 
@@ -489,7 +510,7 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
             <div class="site-state-item site-state-tags">
               <a href="/tags">
                 <span class="site-state-item-count">2</span>
-                <span class="site-state-item-name">标签</span>
+                <span class="site-state-item-name">tags</span>
               </a>
             </div>
           
@@ -506,6 +527,20 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
         
 
         
+        
+          <div class="links-of-blogroll motion-element">
+            <div class="links-of-blogroll-title">
+              <i class="fa fa-globe fa-fw"></i>
+              Links
+            </div>
+            <ul class="links-of-blogroll-list">
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://www.ghostsf.com" title="ghostsf" target="_blank">ghostsf</a>
+                </li>
+              
+            </ul>
+          </div>
         
 
       </section>
@@ -544,11 +579,11 @@ IDE编辑器： HBuilder 或 webstorm 或 dreamweaver
 </div>
 
 <div class="powered-by">
-  由 <a class="theme-link" href="http://hexo.io">Hexo</a> 强力驱动
+  Powered by <a class="theme-link" href="http://hexo.io">Hexo</a>
 </div>
 
 <div class="theme-info">
-  主题 -
+  Theme -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.Muse
   </a>
