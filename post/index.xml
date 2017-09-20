@@ -24,14 +24,5 @@
 0x04 Reload your code JRebel in action</description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>http://code.ghostsf.com/post/test/</link>
-      <pubDate>Thu, 14 Sep 2017 15:51:13 +0800</pubDate>
-      
-      <guid>http://code.ghostsf.com/post/test/</guid>
-      <description>Hello Hugo！I am ghostsf.</description>
-    </item>
-    
   </channel>
 </rss>
