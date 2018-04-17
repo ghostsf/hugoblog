@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="author" content="ghostsf">
+		<meta name="description" content="ghostsf">
+		<meta name="generator" content="Hugo 0.36" />
+		<title>Mysql Count &middot; Ghostsf&#39;s code blog</title>
+		<link rel="shortcut icon" href="http://code.ghostsf.com/images/favicon.ico">
+		<link rel="stylesheet" href="http://code.ghostsf.com/css/style.css">
+		<link rel="stylesheet" href="http://code.ghostsf.com/css/highlight.css">
+
+		
+		<link rel="stylesheet" href="http://code.ghostsf.com/css/font-awesome.min.css">
+		
+
+		
+		<link href="http://code.ghostsf.com/index.xml" rel="alternate" type="application/rss+xml" title="Ghostsf&#39;s code blog" />
+		
+
+		
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://code.ghostsf.com/'> <span class="arrow">←</span>Home</a>
+	
+	<a href='http://code.ghostsf.com/posts'>Archive</a>
+	<a href='http://code.ghostsf.com/tags'>Tags</a>
+	<a href='http://code.ghostsf.com/about'>About</a>
+
+	
+
+	
+	<a class="" href="http://code.ghostsf.com/index.xml">Rss</a>
+	
+</nav>
+
+
+        <section id="wrapper" class="post">
+            <article>
+                <header>
+                    <h1>
+                        Mysql Count
+                    </h1>
+                    <h2 class="headline">
+                    Apr 3, 2018 16:04
+                    · 3 words
+                    · 1 minute read
+                      <span class="tags">
+                      
+                      
+                          
+                              <a href="http://code.ghostsf.com/tags/mysql">mysql</a>
+                          
+                      
+                      
+                      </span>
+                    </h2>
+                </header>
+                
+                  
+                
+                <section id="post-body">
+                    <p>优化COUNT()查询 COUNT()可能是被hugo大家误解最多的函数了，它有两种不同的作用，其一是统计某个列值的数量，其二是统计行数。统计列值时，要求列值是非空的，它不会统计NULL。如果确认括号中的表达式不可能为空时，实际上就是在统计行数。最简单的就是当使用COUNT(<em>)时，并不是我们所想象的那样扩展成所有的列，实际上，它会忽略所有的列而直接统计所有的行数。 我们最常见的误解也就在这儿，在括号内指定了一列却希望统计结果是行数，而且还常常误以为前者的性能会更好。但实际并非这样，如果要统计行数，直接使用COUNT(</em>)，意义清晰，且性能更好。</p>
+
+                </section>
+            </article>
+
+            
+
+            
+
+            
+
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.github.com/ghostsf">
+        <i class="fa fa-github-square"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2017 <i class="fa fa-heart" aria-hidden="true"></i> <a href="http://ghostsf.com">ghostsf</a>
+    
+    </p>
+    <p class="small">
+        Powered by <a href="http://www.gohugo.io/">Hugo</a> Theme By <a href="https://github.com/ghostsf/hugo-theme-xiao">ghostsf</a>
+    </p>
+</footer>
+
+        </section>
+
+        <script src="http://code.ghostsf.com/js/jquery-2.2.4.min.js"></script>
+<script src="http://code.ghostsf.com/js/main.js"></script>
+<script src="http://code.ghostsf.com/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+    </body>
+</html>

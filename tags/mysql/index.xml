@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysql on Ghostsf&#39;s code blog</title>
+    <link>http://code.ghostsf.com/tags/mysql/</link>
+    <description>Recent content in Mysql on Ghostsf&#39;s code blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Apr 2018 16:04:16 +0800</lastBuildDate>
+    
+	<atom:link href="http://code.ghostsf.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mysql Count</title>
+      <link>http://code.ghostsf.com/posts/mysql-count/</link>
+      <pubDate>Tue, 03 Apr 2018 16:04:16 +0800</pubDate>
+      
+      <guid>http://code.ghostsf.com/posts/mysql-count/</guid>
+      <description>优化COUNT()查询 COUNT()可能是被hugo大家误解最多的函数了，它有两种不同的作用，其一是统计某个列值的数量，其二是统计行数。统计列值时，要求列值是非空的，它不会统计NULL。如果确认括号中的表达式不可能为空时，实际上就是在统计行数。最简单的就是当使用COUNT()时，并不是我们所想象的那样扩展成所有的列，实际上，它会忽略所有的列而直接统计所有的行数。 我们最常见的误解也就在这儿，在括号内指定了一列却希望统计结果是行数，而且还常常误以为前者的性能会更好。但实际并非这样，如果要统计行数，直接使用COUNT()，意义清晰，且性能更好。</description>
+    </item>
+    
+  </channel>
+</rss>
