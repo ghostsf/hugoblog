@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://code.ghostsf.com/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</loc>
+    <lastmod>2018-05-09T09:30:28+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://code.ghostsf.com/posts/mysql-count/</loc>
     <lastmod>2018-04-03T16:04:16+08:00</lastmod>
   </url>
@@ -80,6 +85,12 @@
   </url>
   
   <url>
+    <loc>http://code.ghostsf.com/tags/java/</loc>
+    <lastmod>2018-05-09T09:30:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://code.ghostsf.com/tags/mysql/</loc>
     <lastmod>2018-04-03T16:04:16+08:00</lastmod>
     <priority>0</priority>
@@ -106,6 +117,12 @@
   <url>
     <loc>http://code.ghostsf.com/tags/themes/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code.ghostsf.com/tags/%E4%B9%A6%E5%8D%95/</loc>
+    <lastmod>2018-05-09T09:30:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
