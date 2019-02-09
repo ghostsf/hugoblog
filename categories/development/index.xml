@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Ghostsf&#39;s code blog</title>
-    <link>http://code.ghostsf.com/categories/development/</link>
+    <link>http://ghostsf.github.io/categories/development/</link>
     <description>Recent content in Development on Ghostsf&#39;s code blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://code.ghostsf.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ghostsf.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://code.ghostsf.com/posts/goisforlovers/</link>
+      <link>http://ghostsf.github.io/posts/goisforlovers/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/goisforlovers/</guid>
+      <guid>http://ghostsf.github.io/posts/goisforlovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic.&lt;/p&gt;
@@ -26,10 +26,10 @@ small amount of logic.&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://code.ghostsf.com/posts/hugoisforlovers/</link>
+      <link>http://ghostsf.github.io/posts/hugoisforlovers/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/hugoisforlovers/</guid>
+      <guid>http://ghostsf.github.io/posts/hugoisforlovers/</guid>
       <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
 
 &lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the

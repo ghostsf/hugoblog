@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ghostsf&#39;s code blog</title>
-    <link>http://code.ghostsf.com/tags/</link>
+    <link>http://ghostsf.github.io/tags/</link>
     <description>Recent content in Tags on Ghostsf&#39;s code blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://code.ghostsf.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ghostsf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://code.ghostsf.com/tags/development/</link>
+      <link>http://ghostsf.github.io/tags/development/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/development/</guid>
+      <guid>http://ghostsf.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://code.ghostsf.com/tags/docker/</link>
+      <link>http://ghostsf.github.io/tags/docker/</link>
       <pubDate>Wed, 16 May 2018 13:19:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/docker/</guid>
+      <guid>http://ghostsf.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://code.ghostsf.com/tags/git/</link>
+      <link>http://ghostsf.github.io/tags/git/</link>
       <pubDate>Fri, 25 May 2018 10:40:26 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/git/</guid>
+      <guid>http://ghostsf.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://code.ghostsf.com/tags/go/</link>
+      <link>http://ghostsf.github.io/tags/go/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/go/</guid>
+      <guid>http://ghostsf.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://code.ghostsf.com/tags/golang/</link>
+      <link>http://ghostsf.github.io/tags/golang/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/golang/</guid>
+      <guid>http://ghostsf.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://code.ghostsf.com/tags/hugo/</link>
+      <link>http://ghostsf.github.io/tags/hugo/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/hugo/</guid>
+      <guid>http://ghostsf.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://code.ghostsf.com/tags/java/</link>
+      <link>http://ghostsf.github.io/tags/java/</link>
       <pubDate>Wed, 09 May 2018 09:30:28 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/java/</guid>
+      <guid>http://ghostsf.github.io/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mac</title>
-      <link>http://code.ghostsf.com/tags/mac/</link>
+      <link>http://ghostsf.github.io/tags/mac/</link>
       <pubDate>Wed, 16 May 2018 13:19:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/mac/</guid>
+      <guid>http://ghostsf.github.io/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mssql</title>
-      <link>http://code.ghostsf.com/tags/mssql/</link>
+      <link>http://ghostsf.github.io/tags/mssql/</link>
       <pubDate>Wed, 16 May 2018 13:19:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/mssql/</guid>
+      <guid>http://ghostsf.github.io/tags/mssql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mysql</title>
-      <link>http://code.ghostsf.com/tags/mysql/</link>
+      <link>http://ghostsf.github.io/tags/mysql/</link>
       <pubDate>Tue, 03 Apr 2018 16:04:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/mysql/</guid>
+      <guid>http://ghostsf.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>http://code.ghostsf.com/tags/templates/</link>
+      <link>http://ghostsf.github.io/tags/templates/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/templates/</guid>
+      <guid>http://ghostsf.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://code.ghostsf.com/tags/themes/</link>
+      <link>http://ghostsf.github.io/tags/themes/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/themes/</guid>
+      <guid>http://ghostsf.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>书单</title>
-      <link>http://code.ghostsf.com/tags/%E4%B9%A6%E5%8D%95/</link>
+      <link>http://ghostsf.github.io/tags/%E4%B9%A6%E5%8D%95/</link>
       <pubDate>Wed, 09 May 2018 09:30:28 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/tags/%E4%B9%A6%E5%8D%95/</guid>
+      <guid>http://ghostsf.github.io/tags/%E4%B9%A6%E5%8D%95/</guid>
       <description></description>
     </item>
     

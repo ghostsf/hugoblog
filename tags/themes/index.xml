@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes on Ghostsf&#39;s code blog</title>
-    <link>http://code.ghostsf.com/tags/themes/</link>
+    <link>http://ghostsf.github.io/tags/themes/</link>
     <description>Recent content in Themes on Ghostsf&#39;s code blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://code.ghostsf.com/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ghostsf.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://code.ghostsf.com/posts/goisforlovers/</link>
+      <link>http://ghostsf.github.io/posts/goisforlovers/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/goisforlovers/</guid>
+      <guid>http://ghostsf.github.io/posts/goisforlovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic.&lt;/p&gt;

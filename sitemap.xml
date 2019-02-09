@@ -3,159 +3,159 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://code.ghostsf.com/posts/creating-a-new-theme/</loc>
+    <loc>http://ghostsf.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/git/</loc>
+    <loc>http://ghostsf.github.io/posts/git/</loc>
     <lastmod>2018-05-25T10:40:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/mac%E5%AE%89%E8%A3%85mssql/</loc>
+    <loc>http://ghostsf.github.io/posts/mac%E5%AE%89%E8%A3%85mssql/</loc>
     <lastmod>2018-05-16T13:19:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</loc>
+    <loc>http://ghostsf.github.io/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</loc>
     <lastmod>2018-05-09T09:30:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/mysql-count/</loc>
+    <loc>http://ghostsf.github.io/posts/mysql-count/</loc>
     <lastmod>2018-04-03T16:04:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/goisforlovers/</loc>
+    <loc>http://ghostsf.github.io/posts/goisforlovers/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/about/</loc>
+    <loc>http://ghostsf.github.io/about/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/hugoisforlovers/</loc>
+    <loc>http://ghostsf.github.io/posts/hugoisforlovers/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/idea-jrebel-plugin-for-free/</loc>
+    <loc>http://ghostsf.github.io/posts/idea-jrebel-plugin-for-free/</loc>
     <lastmod>2017-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/categories/</loc>
+    <loc>http://ghostsf.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/development/</loc>
+    <loc>http://ghostsf.github.io/tags/development/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/categories/development/</loc>
+    <loc>http://ghostsf.github.io/categories/development/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/docker/</loc>
+    <loc>http://ghostsf.github.io/tags/docker/</loc>
     <lastmod>2018-05-16T13:19:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/</loc>
+    <loc>http://ghostsf.github.io/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/git/</loc>
+    <loc>http://ghostsf.github.io/tags/git/</loc>
     <lastmod>2018-05-25T10:40:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/go/</loc>
+    <loc>http://ghostsf.github.io/tags/go/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/golang/</loc>
+    <loc>http://ghostsf.github.io/tags/golang/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/categories/golang/</loc>
+    <loc>http://ghostsf.github.io/categories/golang/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/hugo/</loc>
+    <loc>http://ghostsf.github.io/tags/hugo/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/java/</loc>
+    <loc>http://ghostsf.github.io/tags/java/</loc>
     <lastmod>2018-05-09T09:30:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/mac/</loc>
+    <loc>http://ghostsf.github.io/tags/mac/</loc>
     <lastmod>2018-05-16T13:19:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/mssql/</loc>
+    <loc>http://ghostsf.github.io/tags/mssql/</loc>
     <lastmod>2018-05-16T13:19:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/mysql/</loc>
+    <loc>http://ghostsf.github.io/tags/mysql/</loc>
     <lastmod>2018-04-03T16:04:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/posts/</loc>
+    <loc>http://ghostsf.github.io/posts/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/</loc>
+    <loc>http://ghostsf.github.io/tags/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/templates/</loc>
+    <loc>http://ghostsf.github.io/tags/templates/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/themes/</loc>
+    <loc>http://ghostsf.github.io/tags/themes/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://code.ghostsf.com/tags/%E4%B9%A6%E5%8D%95/</loc>
+    <loc>http://ghostsf.github.io/tags/%E4%B9%A6%E5%8D%95/</loc>
     <lastmod>2018-05-09T09:30:28+08:00</lastmod>
     <priority>0</priority>
   </url>

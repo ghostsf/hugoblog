@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Ghostsf&#39;s code blog</title>
-    <link>http://code.ghostsf.com/tags/java/</link>
+    <link>http://ghostsf.github.io/tags/java/</link>
     <description>Recent content in Java on Ghostsf&#39;s code blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 May 2018 09:30:28 +0800</lastBuildDate>
     
-	<atom:link href="http://code.ghostsf.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ghostsf.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Java学习推荐书目</title>
-      <link>http://code.ghostsf.com/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</link>
+      <link>http://ghostsf.github.io/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</link>
       <pubDate>Wed, 09 May 2018 09:30:28 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</guid>
+      <guid>http://ghostsf.github.io/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</guid>
       <description>一、基础类 1、《Thinking in java》，入门第一位是建立正确的概念。 2、《Core Java》，这本书更贴近实践，更多API的介绍，同样，更新也更频繁。
 二、进阶类 1、《Effective Java》，在熟悉语法、API之后，你需要知道最佳实践和陷阱，没有比这本更好的。 2、《Java Puzzlers》，通过谜题介绍一些你可能没有注意到的边角料，作为趣味读物也不错 3、《深入Java虚拟机》，翻译一般，但不可不读，最好结合最新的JVM规范来读。
 三、特定领域 1、网络编程： （1） O’Reilly的《Java nio》，很多人都推荐，我个人觉的一般，基本上只是个API更详细的说明文档,O’reilly的java系列很多都是这样。 （2）我更推荐这本《Fundamental networking in java》，由浅入深教你怎么做java网络编程，并且介绍很多背景知识，甚至介绍了各种最佳实践、网络编程模型以及Java socket在不同平台之间的差异等等。

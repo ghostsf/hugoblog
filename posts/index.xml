@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ghostsf&#39;s code blog</title>
-    <link>http://code.ghostsf.com/posts/</link>
+    <link>http://ghostsf.github.io/posts/</link>
     <description>Recent content in Posts on Ghostsf&#39;s code blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://code.ghostsf.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ghostsf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://code.ghostsf.com/posts/creating-a-new-theme/</link>
+      <link>http://ghostsf.github.io/posts/creating-a-new-theme/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/creating-a-new-theme/</guid>
+      <guid>http://ghostsf.github.io/posts/creating-a-new-theme/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Git</title>
-      <link>http://code.ghostsf.com/posts/git/</link>
+      <link>http://ghostsf.github.io/posts/git/</link>
       <pubDate>Fri, 25 May 2018 10:40:26 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/git/</guid>
+      <guid>http://ghostsf.github.io/posts/git/</guid>
       <description>Git教程笔记 教程来自:廖雪峰的官方网站
 Git简介 Git的诞生 Linux的创始人Linus在2005年花两周时间用C语言写成，迅速成为最流行的分布式版本控制系统。
 2008年Github网站上线，它为开源项目免费提供Git存储。
@@ -48,10 +48,10 @@ Git简介 Git的诞生 Linux的创始人Linus在2005年花两周时间用C语言
     
     <item>
       <title>mac docker安装mssql</title>
-      <link>http://code.ghostsf.com/posts/mac%E5%AE%89%E8%A3%85mssql/</link>
+      <link>http://ghostsf.github.io/posts/mac%E5%AE%89%E8%A3%85mssql/</link>
       <pubDate>Wed, 16 May 2018 13:19:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/mac%E5%AE%89%E8%A3%85mssql/</guid>
+      <guid>http://ghostsf.github.io/posts/mac%E5%AE%89%E8%A3%85mssql/</guid>
       <description>mac docker安装mssql 1. 安装docker  阿里云提供的  http://mirrors.aliyun.com/docker-toolbox/mac/docker-for-mac/?spm=5176.8351553.0.0.400c1991vRDiR9
  官网下载  https://www.docker.com/enterprise-edition
 2.设置阿里云镜像 关于加速器的地址，你只需要登录容器Hub服务的控制台，左侧的加速器帮助页面就会显示为你独立分配的加速地址。
@@ -65,10 +65,10 @@ Git简介 Git的诞生 Linux的创始人Linus在2005年花两周时间用C语言
     
     <item>
       <title>Java学习推荐书目</title>
-      <link>http://code.ghostsf.com/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</link>
+      <link>http://ghostsf.github.io/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</link>
       <pubDate>Wed, 09 May 2018 09:30:28 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</guid>
+      <guid>http://ghostsf.github.io/posts/java%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%9B%AE/</guid>
       <description>一、基础类 1、《Thinking in java》，入门第一位是建立正确的概念。 2、《Core Java》，这本书更贴近实践，更多API的介绍，同样，更新也更频繁。
 二、进阶类 1、《Effective Java》，在熟悉语法、API之后，你需要知道最佳实践和陷阱，没有比这本更好的。 2、《Java Puzzlers》，通过谜题介绍一些你可能没有注意到的边角料，作为趣味读物也不错 3、《深入Java虚拟机》，翻译一般，但不可不读，最好结合最新的JVM规范来读。
 三、特定领域 1、网络编程： （1） O’Reilly的《Java nio》，很多人都推荐，我个人觉的一般，基本上只是个API更详细的说明文档,O’reilly的java系列很多都是这样。 （2）我更推荐这本《Fundamental networking in java》，由浅入深教你怎么做java网络编程，并且介绍很多背景知识，甚至介绍了各种最佳实践、网络编程模型以及Java socket在不同平台之间的差异等等。
@@ -83,19 +83,19 @@ Git简介 Git的诞生 Linux的创始人Linus在2005年花两周时间用C语言
     
     <item>
       <title>Mysql Count</title>
-      <link>http://code.ghostsf.com/posts/mysql-count/</link>
+      <link>http://ghostsf.github.io/posts/mysql-count/</link>
       <pubDate>Tue, 03 Apr 2018 16:04:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/mysql-count/</guid>
+      <guid>http://ghostsf.github.io/posts/mysql-count/</guid>
       <description>优化COUNT()查询 COUNT()可能是被hugo大家误解最多的函数了，它有两种不同的作用，其一是统计某个列值的数量，其二是统计行数。统计列值时，要求列值是非空的，它不会统计NULL。如果确认括号中的表达式不可能为空时，实际上就是在统计行数。最简单的就是当使用COUNT()时，并不是我们所想象的那样扩展成所有的列，实际上，它会忽略所有的列而直接统计所有的行数。 我们最常见的误解也就在这儿，在括号内指定了一列却希望统计结果是行数，而且还常常误以为前者的性能会更好。但实际并非这样，如果要统计行数，直接使用COUNT()，意义清晰，且性能更好。</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://code.ghostsf.com/posts/goisforlovers/</link>
+      <link>http://ghostsf.github.io/posts/goisforlovers/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/goisforlovers/</guid>
+      <guid>http://ghostsf.github.io/posts/goisforlovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic.&lt;/p&gt;
@@ -105,10 +105,10 @@ small amount of logic.&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://code.ghostsf.com/posts/hugoisforlovers/</link>
+      <link>http://ghostsf.github.io/posts/hugoisforlovers/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/hugoisforlovers/</guid>
+      <guid>http://ghostsf.github.io/posts/hugoisforlovers/</guid>
       <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
 
 &lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
@@ -119,10 +119,10 @@ appropriate version for your os and architecture.&lt;/p&gt;
     
     <item>
       <title>Idea Jrebel Plugin for Free</title>
-      <link>http://code.ghostsf.com/posts/idea-jrebel-plugin-for-free/</link>
+      <link>http://ghostsf.github.io/posts/idea-jrebel-plugin-for-free/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/idea-jrebel-plugin-for-free/</guid>
+      <guid>http://ghostsf.github.io/posts/idea-jrebel-plugin-for-free/</guid>
       <description>0x00 Installing the JRebel plugin Installing the JRebel plugin
 0x01 Getting a license Getting a license to activation from “ https://my.jrebel.com &amp;ldquo;. Just complete the registration,then u can get the Activation code.
 0x02 Add JRebel agent Startup configuration Adding JRebel agent to your server or standalone application

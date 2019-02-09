@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac on Ghostsf&#39;s code blog</title>
-    <link>http://code.ghostsf.com/tags/mac/</link>
+    <link>http://ghostsf.github.io/tags/mac/</link>
     <description>Recent content in Mac on Ghostsf&#39;s code blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 16 May 2018 13:19:16 +0800</lastBuildDate>
     
-	<atom:link href="http://code.ghostsf.com/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ghostsf.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>mac docker安装mssql</title>
-      <link>http://code.ghostsf.com/posts/mac%E5%AE%89%E8%A3%85mssql/</link>
+      <link>http://ghostsf.github.io/posts/mac%E5%AE%89%E8%A3%85mssql/</link>
       <pubDate>Wed, 16 May 2018 13:19:16 +0800</pubDate>
       
-      <guid>http://code.ghostsf.com/posts/mac%E5%AE%89%E8%A3%85mssql/</guid>
+      <guid>http://ghostsf.github.io/posts/mac%E5%AE%89%E8%A3%85mssql/</guid>
       <description>mac docker安装mssql 1. 安装docker  阿里云提供的  http://mirrors.aliyun.com/docker-toolbox/mac/docker-for-mac/?spm=5176.8351553.0.0.400c1991vRDiR9
  官网下载  https://www.docker.com/enterprise-edition
 2.设置阿里云镜像 关于加速器的地址，你只需要登录容器Hub服务的控制台，左侧的加速器帮助页面就会显示为你独立分配的加速地址。
